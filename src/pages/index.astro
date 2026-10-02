@@ -56,7 +56,10 @@ const services = pinnedServices.length
       per the client's image-style-guide.md "Homepage hero" spec, uploaded to
       R2 at brand/hero-fleet.webp and referenced via brand.imagesBase — or
       dropped into public/images/hero-bg.webp if R2 isn't provisioned yet. */}
-  <Hero title={data.h1} subtitle={data.meta_description} backgroundImage="/images/hero-bg.webp" />
+  {/* Client video replaces the hero image (Robert, 2026-10-02: "Here's the
+      video to replace the main image on the front page";
+      TDI-Homepage-Video-Draft-1.MOV, re-encoded muted to 1080p/720p). */}
+  <Hero title={data.h1} subtitle={data.meta_description} backgroundImage="/images/hero-bg.webp" backgroundVideo={{ src: "/videos/hero.mp4", mobileSrc: "/videos/hero-720.mp4", poster: "/videos/hero-poster.webp" }} />
 
   <TrustStrip />
 
