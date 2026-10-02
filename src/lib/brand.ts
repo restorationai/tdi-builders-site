@@ -70,7 +70,7 @@ export const brand = {
   tradeNoun: "construction",
   specialistPhrase: "Construction & Remodeling Specialists",
   announcementSuffix: "Free Estimates",
-  homeAboutBlurb: "TDI is a proudly Native American owned company (Cherokee) serving Northern California with full-service construction and remodeling. From new construction and additions to roofing, siding, decks, and painting, our team manages every project from the first estimate to the final walkthrough.",
+  homeAboutBlurb: "TDI is a proudly Native American owned company (Cherokee) and a Sacramento remodeling contractor serving Northern California since 1985. From kitchen and bathroom remodels to whole-home renovations and room additions, our team manages every project from the first estimate to the final walkthrough.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;
