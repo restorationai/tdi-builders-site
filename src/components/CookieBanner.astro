@@ -1,0 +1,50 @@
+---
+// CookieBanner — site-wide cookie notice with Accept / Dismiss (Robert, TDI
+// 2026-10-02: "I also need a cookies warning added to the site."). The choice
+// is kept in localStorage ("rankai_cookie_consent" = "accepted" | "dismissed")
+// and announced as a "rankai:cookie-consent" event, so third-party tags the
+// client adds (HubSpot, ZoomInfo) can read it. Sits above the mobile call bar.
+---
+
+<div
+  id="cookie-banner"
+  role="region"
+  aria-label="Cookie notice"
+  hidden
+  class="fixed inset-x-0 bottom-14 md:bottom-0 z-50 border-t border-dark/10 bg-white shadow-[0_-4px_24px_rgba(0,0,0,0.12)]"
+>
+  <div class="container-wide py-4 flex flex-col md:flex-row md:items-center gap-4 justify-between">
+    <p class="text-sm text-dark/80 max-w-3xl">
+      This website uses cookies to improve your experience and to understand how visitors use the site.
+      See our <a href="/privacy/" class="text-primary-700 underline">Privacy Policy</a>.
+    </p>
+    <div class="flex gap-3 shrink-0">
+      <button type="button" data-consent="dismissed" class="px-5 py-2 rounded-md border border-dark/20 text-dark font-semibold text-sm hover:bg-dark/5">
+        Dismiss
+      </button>
+      <button type="button" data-consent="accepted" class="px-5 py-2 rounded-md bg-primary-600 hover:bg-primary-700 text-white font-semibold text-sm">
+        Accept
+      </button>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    var KEY = "rankai_cookie_consent";
+    var el = document.getElementById("cookie-banner");
+    if (!el) return;
+    var saved = null;
+    try { saved = localStorage.getItem(KEY); } catch (e) {}
+    if (saved) return;
+    el.hidden = false;
+    el.addEventListener("click", function (e) {
+      var b = e.target && e.target.closest && e.target.closest("[data-consent]");
+      if (!b) return;
+      var choice = b.getAttribute("data-consent");
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      el.hidden = true;
+      try { window.dispatchEvent(new CustomEvent("rankai:cookie-consent", { detail: choice })); } catch (e) {}
+    });
+  })();
+</script>
