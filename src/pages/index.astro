@@ -62,6 +62,10 @@ const services = pinnedServices.length
 
   <ReviewsStrip />
 
+  {/* Extra CTAs (Robert, 2026-10-02: "more call to actions on the page,
+      somewhere after the page fold from the top. And then more further down"). */}
+  <CtaBanner heading="Planning a Kitchen, Bath or Home Remodel?" subheading="Talk to a licensed Sacramento remodeling contractor. Free estimates." />
+
   <AboutSection imageSrc="/images/team.webp" imageAlt={`${brand.displayName} technician loading a branded service van`}>
     <p>
       {/* Vertical copy — never hardcode a trade phrase here (industry-bleed
@@ -75,9 +79,13 @@ const services = pinnedServices.length
 
   <ProcessSection />
 
+  <CtaBanner heading="Get Your Free Remodeling Estimate" subheading="A detailed written estimate before any work begins, so there are no surprises." />
+
   <BeforeAfterSection pairs={workPairs} />
 
   <RecentWork />
+
+  <CtaBanner heading="Like What You See?" subheading="Let's talk about your project. Call or request a free estimate today." />
 
   <ReviewsSection />
 
