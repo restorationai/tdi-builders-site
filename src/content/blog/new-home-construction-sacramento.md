@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "New Home Construction in Sacramento: What to Expect and How to Get It Right"
-h1: "New Home Construction in Sacramento: What to Expect and How to Get It Right"
+title: "Building a New Home in Sacramento: What to Expect and How to Get It Right"
+h1: "Building a New Home in Sacramento: What to Expect and How to Get It Right"
 meta_description: "Planning new home construction in Sacramento? Here's what the process actually looks like, what it costs, how permits work, and what to ask your builder before breaking ground."
-primary_keyword: "new home construction sacramento"
+primary_keyword: "building a new home in sacramento"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,10 +11,11 @@ hero: ""
 og: ""
 generated_at: "2026-09-20T14:50:05Z"
 manual_override: false
-internal_links: ["/services/new-construction/", "/services/general-contracting/", "/services/room-addition/", "/blog/do-you-need-a-permit/", "/blog/questions-to-ask-before-signing-contract/", "/blog/how-to-plan-a-home-remodel/", "/service-areas/sacramento-ca/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "New Home Construction in Sacramento: What to Expect and How to Get It Right"}]
+internal_links: ["/services/new-construction/", "/services/general-contracting/", "/services/room-addition/", "/blog/do-you-need-a-permit/", "/blog/questions-to-ask-before-signing-contract/", "/blog/how-to-plan-a-home-remodel/", "/service-areas/sacramento-ca/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Building a New Home in Sacramento: What to Expect and How to Get It Right"}]
 faq: [{"question": "How long does new home construction take in Sacramento?", "answer": "A new custom home in Sacramento typically takes 12 to 24 months from design through certificate of occupancy. The permit review phase alone can take 2 to 6 months depending on project complexity and city workload. Finish work and supply chain delays are the most common reasons timelines extend beyond initial projections."}, {"question": "What is the cost per square foot for new construction in Sacramento?", "answer": "New home construction in Sacramento runs $250 to $450 per square foot in hard construction costs, not including land. A 2,000-square-foot home costs roughly $500,000 to $900,000 to build depending on finish level, soil conditions, and design complexity. Site work, design, and permitting fees are additional costs on top of that range."}, {"question": "Does California require solar panels on new homes in Sacramento?", "answer": "California's Title 24 energy code, which applies to all new residential construction in Sacramento, requires new single-family homes to be solar-ready and, in most cases, equipped with a photovoltaic system. The specific requirements depend on the home's size and energy load calculations. Your architect or energy consultant will model compliance as part of the permitted plan set."}, {"question": "Who pulls the building permit for new home construction in Sacramento?", "answer": "Your licensed general contractor should pull all permits for new home construction. Permits are issued to the licensed contractor of record, who takes legal responsibility for the work meeting code. If a contractor asks you, the homeowner, to pull permits, treat it as a serious warning sign about their licensing status."}, {"question": "What is a geotechnical report and do I need one in Sacramento?", "answer": "A geotechnical report, often called a geotech or soils report, is an engineering assessment of your lot's soil conditions and bearing capacity. Sacramento's clay-heavy soils frequently trigger this requirement. The city's building department may require a geotech report before issuing a permit, and the findings directly affect your foundation design and cost."}, {"question": "Can I build a new home on an infill lot in Sacramento?", "answer": "Yes, infill construction on existing lots in Sacramento is common and follows the same permit process as any new residential build. Infill lots often have additional considerations including lot coverage limits, setback requirements, utility connection costs, and sometimes tree protection ordinances. A pre-application meeting with Sacramento's planning department can clarify what applies to your specific parcel."}]
 published_at: "2026-09-20"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 youtube_id: "Flv1NhTj5zo"
@@ -22,7 +23,7 @@ video_transcript: "Thinking about building a new home in Sacramento? Here's what
 ---
 **TL;DR:** New home construction in Sacramento typically runs $250 to $450 per square foot for a custom or semi-custom build, depending on finishes, lot conditions, and the complexity of the design. The full process from design through certificate of occupancy takes 12 to 24 months. Sacramento's building department requires permits for every phase, and the Sacramento Valley's clay-heavy soils often require a geotechnical report before you can pour a foundation. Start with a licensed general contractor who knows the local permit timeline and subcontractor market.
 
-If you've been searching lots in Natomas or watching new subdivisions go up near the Pocket neighborhood and wondering whether building from scratch makes more sense than buying existing, you're asking the right question at the right time. Fall is when Sacramento's build calendar starts to open up, and contractors who are worth hiring are already booking projects for early next year. Here's what the process actually looks like, what drives the cost, and how to avoid the mistakes that turn a 14-month build into a 22-month one.
+If you've been searching lots in Natomas or watching new subdivisions go up near the Pocket neighborhood and wondering whether building from scratch makes more sense than buying existing, you're asking the right question at the right time. Fall is when Sacramento's build calendar starts to open up, and contractors who are worth hiring are already booking projects for early next year. Here's what the process actually looks like, what drives the cost, and how to avoid the mistakes that turn a 14-month build into a 22-month one. Full service details are on the [Sacramento new construction page](/services/new-construction/).
 
 ## What does new home construction in Sacramento actually cost?
 

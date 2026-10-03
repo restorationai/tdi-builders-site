@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "Home Remodeling in Sacramento: What to Expect, What It Costs, and How to Get It Right"
-h1: "Home Remodeling in Sacramento: What to Expect, What It Costs, and How to Get It Right"
+title: "Planning a Home Remodel in Sacramento: What to Expect, What It Costs, and How to Get It Right"
+h1: "Planning a Home Remodel in Sacramento: What to Expect, What It Costs, and How to Get It Right"
 meta_description: "Planning a home remodel in Sacramento? Here's what projects actually cost, which permits you need, and how to find a contractor who won't leave you with surprises."
-primary_keyword: "home remodeling sacramento"
+primary_keyword: "planning a home remodel in sacramento"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,10 +11,11 @@ hero: ""
 og: ""
 generated_at: "2026-09-18T11:33:05Z"
 manual_override: false
-internal_links: ["/services/home-remodeling/", "/services/kitchen-remodeling/", "/services/bathroom-remodeling/", "/services/room-addition/", "/blog/kitchen-remodel-cost-breakdown/", "/blog/do-you-need-a-permit/", "/blog/how-to-plan-a-home-remodel/", "/blog/questions-to-ask-before-signing-contract/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Home Remodeling in Sacramento: What to Expect, What It Costs, and How to Get It Right"}]
+internal_links: ["/services/home-remodeling/", "/services/kitchen-remodeling/", "/services/bathroom-remodeling/", "/services/room-addition/", "/blog/kitchen-remodel-cost-breakdown/", "/blog/do-you-need-a-permit/", "/blog/how-to-plan-a-home-remodel/", "/blog/questions-to-ask-before-signing-contract/", "/contact/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Planning a Home Remodel in Sacramento: What to Expect, What It Costs, and How to Get It Right"}]
 faq: [{"question": "How long does a home remodel take in Sacramento?", "answer": "Timeline depends heavily on scope. A bathroom remodel typically takes 3-6 weeks once permits are approved. A full kitchen remodel runs 6-12 weeks. A room addition or whole-home renovation can take 4-9 months from permit application to final inspection. Sacramento permit review adds 3-10 weeks to the front end of any permitted project, so factor that into your planning timeline."}, {"question": "Do Sacramento home remodels require permits for every trade?", "answer": "Not every trade, but most structural, electrical, plumbing, and mechanical work does require a permit from the City of Sacramento or Sacramento County Building Division. Cosmetic work like painting, flooring, and cabinet refacing typically does not. Your general contractor should identify which trades need permits during the scoping phase and include permit fees in the project budget."}, {"question": "What is the biggest hidden cost in a Sacramento home remodel?", "answer": "The most common hidden costs are deferred maintenance discovered during demo: outdated electrical panels, galvanized or cast-iron plumbing that needs replacement, subfloor rot, or asbestos-containing materials in homes built before 1980. A thorough pre-construction inspection and a contingency budget of 10-15% of the project total help absorb these surprises without derailing the project."}, {"question": "Can I live in my home during a major remodel?", "answer": "It depends on the scope. Single-room remodels (one bathroom, one bedroom) are usually livable if you have access to another bathroom and kitchen. Full kitchen remodels are difficult to live through for 6-12 weeks. Whole-home renovations almost always require temporary relocation. Discuss this with your contractor before signing a contract so you can plan accordingly."}, {"question": "How do I verify a Sacramento remodeling contractor's license?", "answer": "Use the California Contractors State License Board's free online lookup at cslb.ca.gov. Enter the contractor's name or license number to confirm the license is active, check the classification (B-General Building covers most remodeling work), and review any disciplinary history. Always verify before signing a contract or making a deposit."}, {"question": "What is a realistic payment schedule for a home remodel?", "answer": "California law limits the initial deposit on home improvement contracts to 10% of the contract price or $1,000, whichever is less. After that, payments should be tied to project milestones: permit approval, demo completion, rough-in inspections, and finish stages. Avoid contractors who ask for more than 50% of the total before work begins. Final payment should be withheld until the punch list is complete and the final inspection is signed off."}]
 published_at: "2026-09-18"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 ---

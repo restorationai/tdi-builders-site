@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "Home Remodeling in Roseville, CA: What It Costs, How Long It Takes, and How to Pick the Right Contractor"
-h1: "Home Remodeling in Roseville, CA: What It Costs, How Long It Takes, and How to Pick the Right Contractor"
+title: "Planning a Home Remodel in Roseville, CA: Costs, Timelines, and Picking the Right Contractor"
+h1: "Planning a Home Remodel in Roseville, CA: Costs, Timelines, and Picking the Right Contractor"
 meta_description: "Planning a home remodel in Roseville, CA? Here's what projects actually cost, how permits work through the City of Roseville, and what to look for in a local contractor."
-primary_keyword: "home remodeling roseville"
+primary_keyword: "planning a home remodel in roseville"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,10 +11,11 @@ hero: ""
 og: ""
 generated_at: "2026-09-22T15:39:41Z"
 manual_override: false
-internal_links: ["/services/home-remodeling/", "/services/kitchen-remodeling/", "/services/bathroom-remodeling/", "/services/room-addition/", "/blog/do-you-need-a-permit/", "/blog/questions-to-ask-before-signing-contract/", "/blog/how-to-plan-a-home-remodel/", "/service-areas/roseville-ca/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Home Remodeling in Roseville, CA: What It Costs, How Long It Takes, and How to Pick the Right Contractor"}]
+internal_links: ["/service-areas/roseville-ca/home-remodeling/", "/services/home-remodeling/", "/services/kitchen-remodeling/", "/services/bathroom-remodeling/", "/services/room-addition/", "/blog/do-you-need-a-permit/", "/blog/questions-to-ask-before-signing-contract/", "/blog/how-to-plan-a-home-remodel/", "/service-areas/roseville-ca/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Planning a Home Remodel in Roseville, CA: Costs, Timelines, and Picking the Right Contractor"}]
 faq: [{"question": "How much does a home remodel cost in Roseville, CA?", "answer": "Most home remodeling projects in Roseville run $100 to $300 per square foot for the renovated space. A kitchen remodel typically costs $30,000 to $80,000. A bathroom remodel runs $15,000 to $45,000. A room addition starts around $60,000. Structural changes, finish level, and mechanical upgrades are the biggest variables that push costs up or down within those ranges."}, {"question": "Do I need a permit to remodel my home in Roseville?", "answer": "Yes, for most remodeling work. The City of Roseville requires permits for any project that touches structure, electrical, plumbing, or HVAC. Cosmetic work like painting, flooring, and cabinet refacing generally does not require a permit. Plan check for residential permits typically takes 4 to 8 weeks. Your contractor should pull the permit, not you."}, {"question": "How long does a home remodel take in Roseville?", "answer": "A kitchen or bathroom remodel takes 6 to 12 weeks from permit issuance to final inspection. Add 4 to 8 weeks for the City of Roseville's permit plan check before work begins. A whole-home renovation or room addition runs 4 to 6 months total. Late material decisions and hidden conditions discovered during demolition are the most common causes of schedule overruns."}, {"question": "How do I verify a contractor's license in California?", "answer": "Look up any contractor at cslb.ca.gov, the California Contractors State License Board's public license search. Confirm the license is active, the classification matches your project (Class B General Building for most remodels), and there are no disciplinary actions on record. California requires a contractor's license for any project over $500 in combined labor and materials."}, {"question": "Can a contractor legally ask for a large deposit upfront in California?", "answer": "No. California law (Business and Professions Code Section 7159) limits the initial deposit on home improvement contracts to 10 percent of the total contract price or $1,000, whichever is less. Any contractor asking for 30 to 50 percent upfront is either uninformed about the law or a red flag. Payment schedules should be tied to project milestones, not calendar dates."}, {"question": "What hidden costs should I budget for in a Roseville home remodel?", "answer": "Budget a 10 to 15 percent contingency on top of your base estimate. Common hidden costs include old or undersized electrical panels that need upgrading, galvanized or cast-iron plumbing that needs replacement once walls are open, mold or water damage behind tile or drywall, and asbestos-containing materials in homes built before 1980 that require professional remediation before finish work can proceed."}]
 published_at: "2026-09-22"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 youtube_id: "0pTyAiLigf4"
@@ -22,7 +23,7 @@ video_transcript: "Thinking about remodeling your Roseville home but confused by
 ---
 **TL;DR:** Home remodeling in Roseville, CA ranges from $25,000 for a focused bathroom or kitchen update to $150,000+ for a whole-home renovation or room addition. Permit requirements, labor costs, and material lead times all affect your timeline. Most mid-size remodels take 6 to 16 weeks from permit approval to final walkthrough. Hiring a licensed general contractor who pulls permits and coordinates all trades is the clearest path to a finished project that appraises correctly and passes inspection.
 
-If you're sitting on a Roseville home that needs work and the bids you've gotten so far are thousands of dollars apart with no clear explanation, you're not alone. The Sacramento region's construction market has tightened considerably, and Roseville specifically has seen strong remodeling demand as homeowners in neighborhoods like West Roseville and Woodcreek Oaks invest in updating homes built in the late 1990s and early 2000s. Understanding what drives the cost range, what the City of Roseville requires for permits, and how to evaluate a contractor will save you real money and real headaches.
+If you're sitting on a Roseville home that needs work and the bids you've gotten so far are thousands of dollars apart with no clear explanation, you're not alone. The Sacramento region's construction market has tightened considerably, and Roseville specifically has seen strong remodeling demand as homeowners in neighborhoods like West Roseville and Woodcreek Oaks invest in updating homes built in the late 1990s and early 2000s. Understanding what drives the cost range, what the City of Roseville requires for permits, and how to evaluate a contractor will save you real money and real headaches. Full service details are on the [Roseville home remodeling page](/service-areas/roseville-ca/home-remodeling/).
 
 ## What Does a Home Remodel Cost in Roseville?
 
