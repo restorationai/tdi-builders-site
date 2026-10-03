@@ -16,6 +16,7 @@ faq: [{"question": "Can I pull my own permit as a homeowner instead of using a c
 published_at: "2026-08-21"
 services: ["general-contracting", "home-remodeling", "room-addition"]
 rendered: true
+author: "Robert Carpenter"
 ---
 Whether you're adding a bedroom, tearing out a wall, or finally finishing that garage, the permit question comes up fast, and the honest answer is: it depends on the scope of work and where you live. In Sacramento, most structural changes, electrical upgrades, plumbing modifications, and additions over a certain square footage require a permit from the City of Sacramento Community Development Department. Skipping one isn't just a code violation, it can stall a future home sale, void your homeowner's insurance on that work, or force you to tear out finished walls for an inspection that could have happened before drywall went up.
 

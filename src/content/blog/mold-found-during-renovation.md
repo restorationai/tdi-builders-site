@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover mold found during a renovati
 published_at: "2026-08-06"
 services: ["mold-remediation", "home-remodeling"]
 rendered: true
+author: "Robert Carpenter"
 ---
 Opening a wall or pulling up old flooring during a renovation is one of the most common ways homeowners discover mold, and one of the most jarring. If you've just found dark staining, fuzzy growth, or a musty odor behind drywall or under subfloor, stop work in that area. Don't sand it, don't paint over it, and don't keep demoing until you understand what you're dealing with. The good news: finding mold during a renovation is actually an opportunity. You've already opened the wall, now you can address it properly before it gets sealed back in.
 

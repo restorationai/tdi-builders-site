@@ -16,6 +16,7 @@ faq: [{"question": "In what order should rooms be remodeled if I'm doing more th
 published_at: "2026-08-08"
 services: ["home-remodeling", "general-contracting"]
 rendered: true
+author: "Robert Carpenter"
 ---
 Planning a home remodel starts with one decision: scope before budget, not the other way around. Before you price a single cabinet or tile sample, you need a clear picture of what you're changing, why you're changing it, and in what order. Skipping that sequence is the most common reason remodels stall, balloon in cost, or produce results that disappoint. This guide walks you through every stage, from the first sketch on a notepad to the final walkthrough, so you can move forward with confidence rather than guesswork.
 

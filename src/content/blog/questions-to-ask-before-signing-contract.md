@@ -16,6 +16,7 @@ faq: [{"question": "Is a verbal agreement with a contractor legally binding in C
 published_at: "2026-08-13"
 services: ["general-contracting"]
 rendered: true
+author: "Robert Carpenter"
 ---
 Before you sign anything, ask these questions. A contractor who gets defensive, vague, or rushes you past them is telling you something important. A contractor who answers them clearly, with documentation to back it up, is the one worth hiring. These 15 questions work for new construction, additions, kitchen remodels, and most other residential or commercial projects in California.
 

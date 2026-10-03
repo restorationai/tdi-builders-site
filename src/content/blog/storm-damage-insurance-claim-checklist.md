@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage insurance claim in
 published_at: "2026-08-11"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Robert Carpenter"
 ---
 After a storm tears through your neighborhood, the last thing you want is to lose money on your insurance claim because of a paperwork mistake. This checklist walks you through every step, from the first hour after the storm to the final settlement, so you can document the damage thoroughly, avoid the most common claim mistakes, and get the payout your policy entitles you to. Keep it open on your phone as you work through the process.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Sacramento?",
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Robert Carpenter"
 ---
 **TL;DR:** The best water damage restoration company in Sacramento is the one that can handle both the emergency water extraction AND the drywall, flooring, and paint rebuild that follows, without handing you off to a second contractor. Look for California licensing, direct insurance billing experience, and a track record of full rebuilds, not just wet-vac and dehumidifier work. Several Sacramento-area companies carry strong Google reviews for mitigation; TDI Builders focuses on the construction side, rebuilding the space once the water is gone.
 

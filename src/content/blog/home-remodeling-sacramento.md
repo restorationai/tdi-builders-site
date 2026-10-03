@@ -18,6 +18,7 @@ published_at: "2026-09-18"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Robert Carpenter"
 ---
 **TL;DR:** Home remodeling in Sacramento runs anywhere from $25,000 for a focused bathroom or kitchen update to $150,000+ for a full whole-home renovation. Costs vary based on scope, materials, permit requirements, and whether your home has deferred maintenance hiding behind the walls. Hiring a licensed general contractor who pulls permits and manages subs is the fastest way to get a finished project that passes inspection and holds its value.
 

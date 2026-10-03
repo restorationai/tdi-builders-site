@@ -16,6 +16,7 @@ faq: [{"question": "How long does the storm damage repair process typically take
 published_at: "2026-08-22"
 services: ["storm-damage-restoration", "roofing"]
 rendered: true
+author: "Robert Carpenter"
 ---
 After a storm tears through your property, the path from soaked insulation and missing shingles to a finished, code-compliant rebuild follows a predictable sequence, even when the damage itself feels chaotic. Understanding each phase helps you ask the right questions, avoid costly missteps, and move through the insurance process without getting stuck. Here is what that process actually looks like, from the first inspection through the final walkthrough.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What is the difference between a general contractor and a su
 published_at: "2026-08-28"
 services: ["general-contracting", "home-remodeling"]
 rendered: true
+author: "Robert Carpenter"
 ---
 **TL;DR:** A general contractor (GC) is the single point of responsibility on a construction project. They pull permits, hire and schedule subcontractors, coordinate inspections, manage the budget timeline, and hand you a finished project backed by a warranty. You hire one when a project involves multiple trades, requires permits, or is too complex to self-manage without risking code violations, cost overruns, or serious liability.
 

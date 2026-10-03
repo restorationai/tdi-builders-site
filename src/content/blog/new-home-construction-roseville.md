@@ -18,6 +18,7 @@ published_at: "2026-09-24"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Robert Carpenter"
 ---
 **TL;DR:** Building a new home in Roseville, CA typically takes 10 to 16 months from design to certificate of occupancy, with construction costs ranging from $250 to $400+ per square foot depending on finishes and site conditions. You'll work through Roseville's Community Development Department for permits, and you'll need a licensed general contractor to coordinate the trades. The process is manageable if you understand the sequence before you start.
 

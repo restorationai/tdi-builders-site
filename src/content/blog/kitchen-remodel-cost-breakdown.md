@@ -16,6 +16,7 @@ faq: [{"question": "How long does a kitchen remodel typically take from demo to 
 published_at: "2026-07-31"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Robert Carpenter"
 ---
 A mid-range kitchen remodel in Sacramento typically runs between **$25,000 and $75,000**, while a high-end gut-and-rebuild can push past $150,000. That's a wide range, and the reason most budget guides feel useless is that they skip the variables that actually move the number. This post breaks down where the money goes, what drives costs up or down in a California market, and how to build a realistic budget before you talk to a single contractor.
 

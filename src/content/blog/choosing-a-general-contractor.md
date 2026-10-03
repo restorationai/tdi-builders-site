@@ -16,6 +16,7 @@ faq: [{"question": "How do I verify a contractor's license in California?", "ans
 published_at: "2026-07-27"
 services: ["general-contracting", "home-remodeling", "new-construction"]
 rendered: true
+author: "Robert Carpenter"
 ---
 Hiring the wrong general contractor in Sacramento can cost you tens of thousands of dollars, months of delays, and a home that doesn't pass inspection. The short answer to avoiding that: verify the license before you sign anything, get at least three itemized bids, and never pay more than 10% (or $1,000, whichever is less) as a deposit under California law. Everything else below helps you apply those rules to a real hiring decision.
 

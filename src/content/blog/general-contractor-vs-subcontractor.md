@@ -17,6 +17,7 @@ faq: [{"question": "What is the difference between a general contractor and a su
 published_at: "2026-09-10"
 services: ["general-contracting", "commercial-construction"]
 rendered: true
+author: "Robert Carpenter"
 ---
 **TL;DR:** A general contractor holds the prime contract with you, pulls the permits, hires and manages the subcontractors, and is the single accountable party if something goes wrong. Subcontractors are licensed trade specialists (electricians, plumbers, framers, tile setters) who work under the GC's direction on a specific scope. You pay the GC; the GC pays the subs. That chain of accountability is what you are actually buying when you hire a GC.
 
