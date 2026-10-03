@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "New Home Construction in Roseville, CA: What to Expect and How to Get It Right"
-h1: "New Home Construction in Roseville, CA: What to Expect and How to Get It Right"
+title: "Building a New Home in Roseville, CA: What to Expect and How to Get It Right"
+h1: "Building a New Home in Roseville, CA: What to Expect and How to Get It Right"
 meta_description: "Planning new home construction in Roseville, CA? Here's what the process actually looks like, what it costs, how permits work, and how to choose the right builder."
-primary_keyword: "new home construction roseville"
+primary_keyword: "building a new home in roseville"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,16 +11,17 @@ hero: ""
 og: ""
 generated_at: "2026-09-24T20:23:43Z"
 manual_override: false
-internal_links: ["/services/new-construction/", "/services/general-contracting/", "/blog/new-home-construction-sacramento/", "/blog/home-remodeling-roseville/", "/contact/", "/service-areas/roseville-ca/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "New Home Construction in Roseville, CA: What to Expect and How to Get It Right"}]
+internal_links: ["/service-areas/roseville-ca/new-construction/", "/services/new-construction/", "/services/general-contracting/", "/blog/new-home-construction-sacramento/", "/blog/home-remodeling-roseville/", "/contact/", "/service-areas/roseville-ca/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Building a New Home in Roseville, CA: What to Expect and How to Get It Right"}]
 faq: [{"question": "How long does it take to build a new home in Roseville, CA?", "answer": "From design through certificate of occupancy, plan on 12 to 16 months total. The permitting phase alone, including plan check and corrections, typically takes 3 to 4 months. Active construction from foundation to final inspection runs 9 to 13 months for a custom single-family home."}, {"question": "What permits do I need to build a new home in Roseville?", "answer": "You'll need a building permit from the City of Roseville's Community Development Department, plus separate permits for electrical, plumbing, and mechanical systems. If your lot is in a planned development or has design review requirements, that approval must come before the building permit is issued. Your general contractor typically pulls the permits on your behalf."}, {"question": "Does California require solar panels on new home construction in Roseville?", "answer": "Yes. California's Title 24 standards, updated in 2020, require solar photovoltaic systems on most new single-family homes. The system size is calculated based on the home's conditioned floor area and climate zone. Roseville falls in Climate Zone 12, and your HERS rater will confirm the required system specifications during the energy compliance process."}, {"question": "What is the difference between a production builder and a custom home builder in Roseville?", "answer": "A production builder works from a set of pre-designed floor plans on lots they already own, offering limited customization. A custom home builder works on your lot with a design you control, from floor plan to finish selections. Custom builds cost more and take longer, but you get a home designed around your specific needs rather than a developer's standard package."}, {"question": "What soil conditions should I know about before building in Roseville?", "answer": "Roseville sits in the foothill transition zone between the Sacramento Valley and the Sierra Nevada foothills. Soil conditions vary by neighborhood, with expansive clay soils common in some areas. A geotechnical (soils) report is typically required before foundation design, and clay-heavy lots may require a post-tension slab or engineered footings rather than a standard slab-on-grade."}, {"question": "How do I verify a contractor's license before hiring them for new home construction in Roseville?", "answer": "Use the California Contractors State License Board's online license check at cslb.ca.gov. Search by license number or business name. Confirm the license is active, the classification is Class B (General Building) or appropriate for your project type, and that the bond and workers' compensation insurance are current. Never hire a contractor who cannot provide a verifiable CSLB license number."}]
 published_at: "2026-09-24"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 ---
 **TL;DR:** Building a new home in Roseville, CA typically takes 10 to 16 months from design to certificate of occupancy, with construction costs ranging from $250 to $400+ per square foot depending on finishes and site conditions. You'll work through Roseville's Community Development Department for permits, and you'll need a licensed general contractor to coordinate the trades. The process is manageable if you understand the sequence before you start.
 
-If you're sitting on a lot in West Roseville or looking at infill parcels near the Westpark community and wondering what it actually takes to build from the ground up, this is the guide you need. New construction in Roseville is active, the city's permitting office is experienced with residential builds, and the regional subcontractor market is deep. But the process has real steps, real timelines, and real costs, and knowing them before you sign anything saves you from expensive surprises.
+If you're sitting on a lot in West Roseville or looking at infill parcels near the Westpark community and wondering what it actually takes to build from the ground up, this is the guide you need. New construction in Roseville is active, the city's permitting office is experienced with residential builds, and the regional subcontractor market is deep. But the process has real steps, real timelines, and real costs, and knowing them before you sign anything saves you from expensive surprises. Full service details are on the [Roseville new construction page](/service-areas/roseville-ca/new-construction/).
 
 ## What Does New Home Construction in Roseville Actually Cost?
 

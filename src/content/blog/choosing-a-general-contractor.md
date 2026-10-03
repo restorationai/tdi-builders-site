@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a General Contractor in  (Without Getting Burned)"
-h1: "How To Choose a General Contractor in  (Without Getting Burned)"
+title: "How To Choose a General Contractor in Sacramento (Without Getting Burned)"
+h1: "How To Choose a General Contractor in Sacramento (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a general contractor in  without getting burned"
+primary_keyword: "how to choose a general contractor in sacramento without getting burned"
 secondary_keywords: ["renovations, remodels and general contracting", "home remodeling", "new home construction"]
 search_intent: "commercial_decision"
 priority: 6.0
@@ -11,7 +11,7 @@ plan_hash: "dd6741a5904ca5a2"
 generated_at: "2026-08-24T08:01:35.376849+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/home-remodeling/", "/services/new-construction/", "/services/general-contracting/", "/blog/how-to-plan-a-home-remodel/", "/blog/do-you-need-a-permit/", "/blog/kitchen-remodel-cost-breakdown/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a General Contractor in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a General Contractor in Sacramento (Without Getting Burned)"}]
 faq: [{"question": "How do I verify a contractor's license in California?", "answer": "Go to cslb.ca.gov and use the license lookup tool \u2014 you can search by license number, business name, or the contractor's name. The result will show whether the license is active, what classification it carries, and whether there are any disciplinary actions on record. Always check this yourself rather than relying on a copy of the license the contractor provides, since licenses can lapse or be suspended after a copy is printed."}, {"question": "Is it legal for a contractor to ask for a large deposit before starting work?", "answer": "In California, home improvement contracts are governed by the Contractors State License Board, which limits the initial deposit to 10% of the total contract price or $1,000 \u2014 whichever is less. Demanding more than that upfront is a violation of state law and a common warning sign. Progress payments tied to completed phases of work are normal and legal; a large lump-sum deposit before any work begins is not."}, {"question": "What should a written construction contract include?", "answer": "At minimum: the contractor's name, address, license number, and insurance information; a detailed description of the work to be performed; the materials and brands specified; the total price and a payment schedule tied to milestones; the estimated start and completion dates; and a process for handling changes to the scope of work. California law requires written contracts for home improvement projects over $500, and the contract must include a three-day right to cancel. If any of those elements are missing, ask for them before signing."}, {"question": "What's the difference between a general contractor and a subcontractor, and why does it matter?", "answer": "A general contractor holds the primary contract with you and takes legal responsibility for the overall project, including managing and paying any subcontractors they bring in. Subcontractors \u2014 electricians, plumbers, framers, tile setters \u2014 work under the general contractor's direction and typically don't have a direct contract with you. This matters because if a subcontractor isn't paid by the general contractor, they can file a mechanic's lien against your property even though you paid the GC in full. A reputable general contractor will provide lien releases from subcontractors as work is completed and paid."}]
 published_at: "2026-07-27"
 services: ["general-contracting", "home-remodeling", "new-construction"]
